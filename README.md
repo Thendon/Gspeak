@@ -1,10 +1,10 @@
-# Gspeak
+# Gspeak 2.6
 
 Gspeak Source Code
 
-No API
-No support
-(sorry)
+* No API
+* No support
+(sorry :pensive:)
 
 Workshop Links (for servers): 
 
