@@ -3,6 +3,8 @@
 Gspeak Source Code
 This is the updated and full version of Gspeak (for server owners), now working with Teamspeak 3.3! For free! Enjoy!
 
+## Discord: https://discord.gg/7F44thQ
+
 Features:
 
 * Players volume changes with distance to make it sound more realistic.
