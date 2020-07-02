@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "gspeak/radio/funktronics"
+	"$nocull" 1
+}

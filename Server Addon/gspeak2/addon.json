@@ -1,0 +1,12 @@
+{
+	"title"		:	"Gspeak 2.5",
+	"type"		:	"ServerContent",
+	"tags"		:	[ "roleplay", "realism" ],
+	"ignore"	:
+	[
+        "models/*",
+        "materials/*",
+        "sound/*",
+        "resource/*"
+	]
+}
