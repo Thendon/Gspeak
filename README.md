@@ -1,5 +1,5 @@
 Yo guys, lets make 2.7 possible.
-https://www.buymeacoffee.com/thendon
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/thendon)
 Planned Features: 
 * Get rid of installer
 * 64Bit support
