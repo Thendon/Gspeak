@@ -1,3 +1,11 @@
+Yo guys, lets make 2.7 possible.
+https://www.buymeacoffee.com/thendon
+Planned Features: 
+* Get rid of installer
+* 64Bit support
+* MacOs support
+* untangle that mess of lua code wtf past me
+
 # Gspeak 2.6
 
 Gspeak Source Code
