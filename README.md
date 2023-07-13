@@ -1,10 +1,12 @@
-Yo guys, lets make 2.7 possible.\
+Yo guys, lets make 3.0 possible.\
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/thendon)
 ### Planned Features: 
-* Get rid of installer
+* getting rid of installer
 * 64Bit support
 * MacOs support
-* untangle that mess of lua code wtf past me
+* fix syncing of talkmode
+* fix radiostation not working properly
+* untangle that mess of lua code, wtf past me
 
 # Gspeak 2.6
 
@@ -13,22 +15,19 @@ This is the updated and full version of Gspeak (for server owners), now working 
 
 ### Features:
 
-* Players volume changes with distance to make it sound more realistic.
-* Players voice is in 3D (surround)
+* Smooth proximity voice chat
+* 3D surround audio
 * Radio communication system
-* Teamspeak 3 voice quality
+* High-end voice quality
+* Outsource voicechat traffic from your Gmod server
 * Auto moving of players into the (password secured) Gspeak channel
-* Mouth movement when speaking
-* Customizable talk modes with individual icons & ranges
+* Immersive mouth movement when speaking
+* Many customization features
 
 ### Requirements:
 
-* Teamspeak3 server and a channel containing the letters "Gspeak" in its name
-* Clients have to install Gspeak on their devices: http://5.9.67.102/gmod/gspeak/
-
-### How does it work?
-
-Each Player receives the distance to any other Player on the server. If the distance is short enough you will slowly start hearing him at the correct position. If now the other player starts talking in Teamspeak3 his mouth will move in the game and an icon appears above his/her head
+* Teamspeak3 server + channel which contains "Gspeak" within the name
+* Clients have to install the Gspeak plugin on their Teamspeak3 client
 
 ### Workshop Links (for servers): 
 * lua files - https://steamcommunity.com/sharedfiles/filedetails/?id=1877304986
