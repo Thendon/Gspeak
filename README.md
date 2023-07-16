@@ -1,5 +1,7 @@
 Yo guys, lets make 3.0 possible.\
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/thendon)
+Download the installer here https://gspeak.l1m.it/
+
 ### Planned Features: 
 * getting rid of installer
 * 64Bit support
