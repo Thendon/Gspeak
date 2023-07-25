@@ -4,3 +4,6 @@
 [submodule "GspeakGarrysmodPlugin"]
 	path = GspeakGarrysmodPlugin
 	url = https://github.com/Thendon/GspeakGarrysmodPlugin
+[submodule "GspeakServerAddon"]
+	path = GspeakServerAddon
+	url = https://github.com/Thendon/GspeakServerAddon
