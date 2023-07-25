@@ -2,9 +2,20 @@ Yo guys, lets make 2.7 possible.\
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/thendon)
 ### Planned Features: 
 * Get rid of installer
-* 64Bit support
+* 64Bit support ✅
 * MacOs support
 * untangle that mess of lua code wtf past me
+
+### Setup the repository
+* To get the latest versions of every used submodule use
+```
+git submodule update --init --recursive
+```
+
+
+
+
+
 
 # Gspeak 2.6
 

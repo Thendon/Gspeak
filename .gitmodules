@@ -1,0 +1,6 @@
+[submodule "GspeakTeamspeakPlugin"]
+	path = GspeakTeamspeakPlugin
+	url = https://github.com/Thendon/GspeakTeamspeakPlugin
+[submodule "GspeakGarrysmodPlugin"]
+	path = GspeakGarrysmodPlugin
+	url = https://github.com/Thendon/GspeakGarrysmodPlugin
