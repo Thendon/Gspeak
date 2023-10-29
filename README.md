@@ -8,13 +8,13 @@ Download the installer here https://gspeak.l1m.it/
 ⏸️ halted
 ❓ planed (maybe)
 
-#2.1 Beta
+#3.1 Beta
 * ✅ Audio effects (walls / water)
 * ✅ Administration tools for ULX
 * ✅ (bug) Integer channel passwords
 * ✅ code refactoring
 
-#2.0 Release
+#3.0 Release
 * ✅ 64Bit support 
 * ✅ Teamspeak 3.6 support
 
