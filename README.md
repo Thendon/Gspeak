@@ -8,23 +8,27 @@ Download the installer here https://gspeak.l1m.it/
 ⏸️ halted
 ❓ planed (maybe)
 
-### Planned Features: 
-* ⏸️ Get rid of installer / dll files
+#2.1 Beta
+* ✅ Audio effects (walls / water)
+* ✅ Administration tools for ULX
+* ✅ (bug) Integer channel passwords
+* ✅ code refactoring
+
+#2.0 Release
 * ✅ 64Bit support 
 * ✅ Teamspeak 3.6 support
-* ⏸️ MacOs support 
-* ⚠️ (bug) fix syncing of talkmode 
-* ⚠️ (bug) fix radiostation not working properly 
-* ✅ code refactoring
-* ✅ (bug) Integer channel passwords
-* ✅ Command to move into channel
-* ✅ Audio effects (walls / water)
-* ⏸️ Basic Support for third party addons (like phones)
+
+### Planned Features: 
+* ❓ Radio stations custom key bindings
+* ⌛ Microphone -> Speaker(s) combination (drive through & broadcasts)
 * ❓ Providing hooks for third party addons (control effect/position/volume)
 * ❓ Magical communication device
 * ❓ Audio direction volume impact
-* ❓ Discord support
-* ❓ Audio effects (echo, deadchat)
+* ❓ More Audio effects (echo, deadchat, admin)
+* ⏸️ Get rid of installer / dll files
+* ⏸️ MacOs support 
+* ⏸️ Basic Support for third party addons (like phones)
+* ⏸️ Discord support
 
 ### Requirements:
 
